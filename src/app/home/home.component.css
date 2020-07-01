@@ -1,0 +1,26 @@
+h1 {
+    margin: 8px 0;
+  }
+
+p {
+    margin: 0;
+  }
+.moveContent {
+  display: flex;
+  justify-content: center;
+}
+.container {
+    border: 1px solid;
+    height: 400px;
+    width: 80%;
+    margin: 10px auto 10px
+}
+.information{
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 80%;
+}
+.data {
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif
+}

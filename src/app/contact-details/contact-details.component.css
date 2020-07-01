@@ -1,0 +1,15 @@
+.displayData {
+    padding-bottom: 5px;
+}
+
+.container {
+    border: 1px solid;
+    height: 600px;
+}
+.row {
+    margin: 15px 15px;
+}
+.moveButton{
+    margin-top: 5px;
+    margin-left: 110px;
+}

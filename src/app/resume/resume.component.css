@@ -1,0 +1,15 @@
+.displayData {
+    padding-bottom: 15px;
+}
+
+.container {
+    border: 1px solid;
+    height: 600px;
+}
+.row {
+    margin: 15px 15px;
+}
+
+.resumeData {
+    text-align: center;
+}
